@@ -1,1 +1,3 @@
 conflictfile is created
+conflict file is updated
+
